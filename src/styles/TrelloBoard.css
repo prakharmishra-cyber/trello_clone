@@ -22,3 +22,82 @@
     display:flex;
     flex-direction: column;
 }
+
+.add_card_button {
+    color:white;
+    padding:10px;
+    font-size:15px;
+    background-color:#606469;
+    box-shadow: 2px 2px 2px gainsboro;
+    border-radius: 2px;
+    margin-left: 20px;
+    font-weight: 500;
+    border:none;
+}
+
+.add_card_button:hover {
+    box-shadow: 3px 3px 3px rgb(187, 184, 184);
+}
+
+.pop_up_outer_box {
+    padding:10px;
+    border-radius: 5px;
+    height:500px;
+}
+
+.form_fields {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_title {
+    font-size:25px;
+    color:rgb(68, 66, 66);
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input {
+    padding:15px;
+    font-size:15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+    width:50%;
+}
+
+.form_inputs {
+    margin:10px;
+    width:100%;
+}
+
+.close:hover {
+    cursor: pointer;
+}
+
+.checks {
+    margin:10px;
+    background-color:rgb(255, 233, 233);
+    color:rgb(255, 117, 117);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 2px rgb(255, 233, 233);
+}
+
+.bg-gray {
+   opacity:0.1;
+}
+
+.add_card_button1 {
+    color:white;
+    padding:10px;
+    font-size:15px;
+    background-color:#606469;
+    box-shadow: 2px 2px 2px gainsboro;
+    border-radius: 2px;
+    margin-left: 10px;
+    font-weight: 500;
+    border:none;
+}
+
