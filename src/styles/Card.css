@@ -1,0 +1,19 @@
+.card_box {
+    width:320px;
+    height:100;
+    background-color: #ffe4c4;
+    margin:20px;
+    padding:20px;
+    border-radius: 3px;
+    box-shadow: 1px 2px 2px rgb(187, 186, 186);
+}
+
+.card_title {
+    font-size: 25px;
+    color: rgb(56, 55, 55);
+}
+
+.card_description {
+    font-size:20px;
+    color: rgb(56, 55, 55);
+}
